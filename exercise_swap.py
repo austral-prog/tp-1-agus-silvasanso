@@ -16,4 +16,3 @@ def swap():
     x, y= y, x
     print(x)
     print(y)
-swap()
