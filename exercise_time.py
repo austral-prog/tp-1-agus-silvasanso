@@ -11,6 +11,3 @@ def time():
     print(total_segundos//3600)
     print((total_segundos%3600)//60)
     print(total_segundos%60)
-
-
-time()
