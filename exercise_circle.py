@@ -12,4 +12,3 @@ def circle():
     radio = 5
     print(pi*radio**2)
     print(2*pi*radio)
-circle()
