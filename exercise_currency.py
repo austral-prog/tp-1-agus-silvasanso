@@ -14,4 +14,3 @@ def currency():
     print(pesos/1500)
     print(pesos/1600)
     print(pesos/250)
-currency()
