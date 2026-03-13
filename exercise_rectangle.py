@@ -10,4 +10,3 @@ def rectangle():
     altura = 5
     print(base*altura)
     print(2*base+2*altura)
-rectangle()
